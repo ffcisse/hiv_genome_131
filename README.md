@@ -5,7 +5,7 @@ This project focuses on building an interactive genome browser for Human Immunod
 
 The goal of this project is to create a unified platform that allows researchers to visualize HIV-1 genomic data, compare subtypes, analyze mutations, and explore structural features to support therapeutic development and vaccine research.
 
-📄 **Project Context / Writeup:** [View here]([BioE 131] Final Project Writeup.pdf)
+📄 **Project Context / Writeup:** [View here](Final_Project_Writeup.pdf)
 
 
 ## Technologies
