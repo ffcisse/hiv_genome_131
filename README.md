@@ -1,4 +1,4 @@
-# bioe131-finalproj24
+# HIV Genome Browser
 
 This is the READme to recreate the HIV genome browser, focusing on accessory protein sequences across HIV subtypes A-C, and recombinant form AE. This READMe assumes the user already has apache2 and jbrowse-cli installed
 
