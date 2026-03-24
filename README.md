@@ -5,7 +5,7 @@ This project focuses on building an interactive genome browser for Human Immunod
 
 The goal of this project is to create a unified platform that allows researchers to visualize HIV-1 genomic data, compare subtypes, analyze mutations, and explore structural features to support therapeutic development and vaccine research.
 
-📄 **Project Context / Writeup:** [View here](Pasted%20text.txt)
+📄 **Project Context / Writeup:** [View here]([BioE 131] Final Project Writeup.pdf)
 
 
 ## Technologies
@@ -65,6 +65,6 @@ The goal of this project is to create a unified platform that allows researchers
 
 
 ## Files
-- 📄 [Setup Instructions / Original Repo]([LINK_TO_ORIGINAL_REPO](https://github.com/ambernguy5/bioe131-finalproj24))
+- 📄 [Setup Instructions / Original Repo](https://github.com/ambernguy5/bioe131-finalproj24)
 
 *Developed as part of BioE 131 at UC Berkeley*
